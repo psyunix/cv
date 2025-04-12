@@ -191,13 +191,13 @@ const profileData = {
   
   {
     alma: "ICT - College for Expert Studies in Information",
-    duration: "Jul 2011 - Present",
+    duration: "Jul 2009 - 2011",
     std: "Professional Master • Network Technologies",
     score: "",
   },
   {
     alma: "ITS - Information Technology School - College for Expert Studies of IT",
-    duration: "Oct 2009 - Present",
+    duration: "Oct 2006 - 2029",
     std: "Bachelor's degree • Information Technologies",
     score: "",
   },
