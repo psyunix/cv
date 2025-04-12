@@ -202,46 +202,7 @@ const profileData = {
     score: "",
   },
 ],
-  languages: [
-    {
-      name: "English",
-      level: "Fluent",
-    },
-    {
-      name: "Serbo-Croatian",
-      level: "Native",
-    },
-  ],
-  hobbies: [
-    {
-      name: "Reading",
-      desc: "Books, Articles, Blogs",
-    },
-    {
-      name: "Traveling",
-      desc: "Exploring new places and cultures",
-    },
-    {
-      name: "Photography",
-      desc: "Capturing moments and landscapes",
-    },
-  ],
-  volunteer: [
-    {
-      organization: "Udacity",
-      title: "Mentor",
-      date: "May 2018 - Present",
-      desc: `Mentoring students in the <strong>Mobile Web Specialist</strong> nano degree program.
-      Providing feedback on projects and guiding them through the learning process.`,
-    },
-    {
-      organization: "NPTEL",
-      title: "Mentor",
-      date: "Jan 2017 - Mar 2017",
-      desc: `Mentoring students in the <strong>Introduction to Modern Application Development</strong> MOOC
-      by NPTEL (IIT Madras) and Hasura. Assisting students with course materials and project work.`,
-    },
-  ],
+
   certifications: [
     {
       desc: `<strong>Mobile Web Specialist Nanodegree</strong> by <strong>Udacity</strong>.
