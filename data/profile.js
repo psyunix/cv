@@ -185,18 +185,61 @@ const profileData = {
       <strong>CSS</strong>, <strong>JavaScript</strong> and <strong>Socket.io</strong>.`,
     },
   ],
+
+
   education: [
+  
+  {
+    alma: "ICT - College for Expert Studies in Information",
+    duration: "Jul 2011 - Present",
+    std: "Professional Master • Network Technologies",
+    score: "",
+  },
+  {
+    alma: "ITS - Information Technology School - College for Expert Studies of IT",
+    duration: "Oct 2009 - Present",
+    std: "Bachelor's degree • Information Technologies",
+    score: "",
+  },
+],
+  languages: [
     {
-      alma: "FET, GKV, Haridwar",
-      duration: "2014 - 2018",
-      std: "B.Tech. (Computer Science & Engineering)",
-      score: "71.00%",
+      name: "English",
+      level: "Fluent",
     },
     {
-      alma: "Jwala Devi SVMIC, Prayagraj",
-      duration: "2011 - 2013",
-      std: "Class XI-XII (PCM)",
-      score: "89.80%",
+      name: "Serbo-Croatian",
+      level: "Native",
+    },
+  ],
+  hobbies: [
+    {
+      name: "Reading",
+      desc: "Books, Articles, Blogs",
+    },
+    {
+      name: "Traveling",
+      desc: "Exploring new places and cultures",
+    },
+    {
+      name: "Photography",
+      desc: "Capturing moments and landscapes",
+    },
+  ],
+  volunteer: [
+    {
+      organization: "Udacity",
+      title: "Mentor",
+      date: "May 2018 - Present",
+      desc: `Mentoring students in the <strong>Mobile Web Specialist</strong> nano degree program.
+      Providing feedback on projects and guiding them through the learning process.`,
+    },
+    {
+      organization: "NPTEL",
+      title: "Mentor",
+      date: "Jan 2017 - Mar 2017",
+      desc: `Mentoring students in the <strong>Introduction to Modern Application Development</strong> MOOC
+      by NPTEL (IIT Madras) and Hasura. Assisting students with course materials and project work.`,
     },
   ],
   certifications: [
