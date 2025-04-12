@@ -221,17 +221,16 @@ const profileData = {
     },
   ],
 
-
   education: [
   
   {
-    alma: "ICT - College for Expert Studies in Information",
+    alma: "ICT - College for Expert Studies in Information - https://en.ict.edu.rs/",
     duration: "Jul 2009 - Aug 2011",
     std: "Professional Master • Network Technologies",
     score: "9",
   },
   {
-    alma: "ITS - Information Technology School - College for Expert Studies of IT",
+    alma: "ITS - Information Technology School - College for Expert Studies of IT - https://eng.its.edu.rs/",
     duration: "Oct 2006 - Jun 2009",
     std: "Bachelor's degree • Information Technologies",
     score: "8",
