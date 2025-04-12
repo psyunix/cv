@@ -56,9 +56,7 @@ const profileData = {
         `Optimize network configurations and server environments for on-premises and cloud-based infrastructures, ensuring seamless hybrid cloud integration.`,
         `Collaborate with development and data science teams to provide scalable, secure, and efficient computing environments for risk modeling and advanced analytics.`,
         `Continuously evaluate and integrate emerging cloud and DevOps technologies to enhance system reliability, cost efficiency, and operational resilience.`,
-      ],
-    },
-};
+      ]
     },
 
     {
@@ -78,7 +76,6 @@ const profileData = {
         "Job-related used technologies: Microsoft platform including the M365 Cloud, SharePoint, AD/FTP/DNS, and PowerBI, Unix/Linux, Virtualization, Storage systems (SAN&NAS) Dell/IBM/TrueNAS, Nessus Security, Cloud Computing (AWS, Azure), Fortinet Cloud Security - IPsec/VPN, OKTA IAM, RSA, Secure Pulse, VMware, Veeam Cloud DR/BC, Nagios XI monitoring, ESET AV Cloud, Python, Bash, and PowerShell Scripting, MS SQL, Oracle, PostgreSQL, R, STATA, SVN, DevOps CI/CD, YAML and JSON, Atlassian Confluence collaboration tools and Jira Agile tools for software teams. PCI Compliance."
       ]
     },
-    
   
     {
       organization: "Flipkart Internet Pvt Ltd",
