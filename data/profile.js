@@ -44,8 +44,8 @@ const profileData = {
   ],
   experiences: [
     {
-      organization: "Gameskraft",
-      title: "Senior Software Engineer",
+      organization: "SAS Institute",
+      title: "Senior System Arhitect",
       date: "Dec 2022 - Present",
       details: [
         `As part of the <strong>RummyCulture App</strong> team, worked on the development of core features like <strong>TDS summary & certificate</strong>, <strong>game join & re-join flow</strong> improvements,
