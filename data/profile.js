@@ -7,7 +7,7 @@ const profileData = {
     intro: `Insightful Information Technology Manager/Engineer with 20 years of IT leadership experience, including infrastructure, application support, and security services oversight. Dedicated to customer satisfaction with focused delivery of technical solutions. Proven leader in directing operations, maintenance, and support of complex systems. Develops creative business solutions, leveraging diverse methodologies and delivering engineering solutions for leading organizations. Highly adept in requests for proposal development, technology needs assessments, and staff training..`,
     contact: {
       email: "psyunix@gmail.com",
-      phone: "+808-two48-zero781",
+      phone: "+808-two84-zero781",
       address: "Honolulu, Hawaii",
     },
   },
@@ -68,10 +68,15 @@ const profileData = {
         "Oversaw Azure DevOps CI/CD for KRM-WebUI.",
         "Managed Microsoft AD, M365, SharePoint, PowerBI, and enterprise backup with Veeam.",
         "Integrated cloud security using Fortinet, OKTA IAM, and PCI compliance tools.",
-        "Automated operational tasks via PowerShell, Bash, and Python."
+        "Automated operational tasks via PowerShell, Bash, and Python.",
+        "Primary responsibilities include troubleshooting, supporting internal application systems, and maintaining the day-to-day operations of the production and development network and server environment.",
+        "Deployment, maintenance, and client technical support of the Kamakura Risk Manager (KRM) and Kamakura Risk Information Services (KRIS), Azure DevOps CI/CD for the KRM-WebUI software, including design and maintaining two Colocation data centers.",
+        "Analyzed department and job-related functionality requirements to align technology priorities with business needs.",
+        "Developed and implemented technical application support and information technology policies and procedures that advanced investment needs, outcomes, and performance measurements to balance continuous innovation with responsible risk-taking.",
+        "Job-related used technologies: Microsoft platform including the M365 Cloud, SharePoint, AD/FTP/DNS, and PowerBI, Unix/Linux, Virtualization, Storage systems (SAN&NAS) Dell/IBM/TrueNAS, Nessus Security, Cloud Computing (AWS, Azure), Fortinet Cloud Security - IPsec/VPN, OKTA IAM, RSA, Secure Pulse, VMware, Veeam Cloud DR/BC, Nagios XI monitoring, ESET AV Cloud, Python, Bash, and PowerShell Scripting, MS SQL, Oracle, PostgreSQL, R, STATA, SVN, DevOps CI/CD, YAML and JSON, Atlassian Confluence collaboration tools and Jira Agile tools for software teams. PCI Compliance."
       ]
     },
-
+    
   
     {
       organization: "Flipkart Internet Pvt Ltd",
