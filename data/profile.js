@@ -210,7 +210,7 @@ const profileData = {
       date: "May - Nov 2018",
     },
     {
-      desc: `<strong>Introduction to Modern Application Development</strong>, a MOOC by <em> NPTEL (IIT Madras)
+      desc: `<strong>VMware Certified Associate - Data Center Virtualization (VCA-DCV)</strong>, a MOOC by <em> NPTEL (IIT Madras)
       and Hasura</em>. Ranked at <strong> top 10 percentile </strong> among more than 2500 candidates.
        (<a target='_blank' rel='noreferrer' href='https://nptel.ac.in/noc/E_Certificate/linkedin/noc17-cs06/NPTEL17CS0626270067AN.jpg'>
        https://goo.gl/X3HEdR</a>)`,
