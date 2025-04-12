@@ -58,11 +58,11 @@ const profileData = {
         `Addressed live issues such as App crashes, JS crashes, and ANRs using <strong>Sentry</strong> and <strong>Firebase Crashlytics</strong>. Mentored juniors through knowledge-sharing and code-review sessions to ensure bug-free code and optimal performance.`,
       ],
     },
-    
+
     {
-      company: "Kamakura Corporation",
-      position: "Director of Enterprise Information Technology",
-      duration: "Jun 2019 - Aug 2022",
+      organization: "Kamakura Corporation",
+      title: "Director of Enterprise Information Technology",
+      date: "Jun 2019 - Aug 2022",
       details: [
         "Maintained internal and client-facing systems across cloud and physical environments.",
         "Oversaw Azure DevOps CI/CD for KRM-WebUI.",
