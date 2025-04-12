@@ -103,6 +103,22 @@ const profileData = {
       ]
     },
   
+  {
+    organization: "Superb Internet Corp",
+    title: "Senior System Engineer",
+    date: "Nov 2016 - Jun 2019",
+    details: [
+      "Design and maintenance of three data centers across the USA.",
+      "Primary responsibilities include troubleshooting T 3/4 level support, internal application systems, and maintaining the day-to-day operation of the production and development network and server environment based on UNIX/Linux.",
+      "Identified software issues and handled troubleshooting to resolve them quickly.",
+      "Analyzed security logs to determine and alleviate network threats.",
+      "Managing and maintaining all production and development of corporate systems, VMware Infrastructure, and disaster recovery.",
+      "Building (rebuilding), staging, and deploying servers for test, development, and production environments.",
+      "Documenting issues clearly and effectively for reference and reporting.",
+      "Job-related used technologies: OnApp (RedHat/KVM) – Enterprise Cloud, VMware cloud, AWS, Azure, Cisco/Fortinet IPsec/VPN, Qmail, GlusterFS, HAproxy LB, LDAP, Squid Proxy, Unix/Linux, Microsoft platform Office 365 and AD, DNS, GPO, SSO, SAN/NAS (Netapp, FreeNAS), MySQL, MS SQL, PostgreSQL, ORACLE DB Clusters. Ansible, Jira, and Nessus security for ISO audit and PCI compliance.",
+    ],
+  },
+
     {
       organization: "Flipkart Internet Pvt Ltd",
       title: `UI Engineer 1`,
