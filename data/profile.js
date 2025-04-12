@@ -28,20 +28,46 @@ const profileData = {
       iconClass: "fa-brands fa-codepen",
     },
   ],
+
   skills: [
-    {
-      title: "Languages",
-      value: "HTML5, CSS3, TypeScript, JavaScript",
-    },
-    {
-      title: "Frameworks/Libraries",
-      value: "ReactJS, React-Native, Redux, NodeJS-Express, NextJS, Angular",
-    },
-    {
-      title: "Others",
-      value: "Git, Jenkins, AWS",
-    },
-  ],
+  {
+    title: "Languages",
+    value: "HTML5, CSS3, TypeScript, JavaScript, Python, Bash, PowerShell",
+  },
+  {
+    title: "Frameworks/Libraries",
+    value: "ReactJS, React-Native, Redux, NodeJS-Express, NextJS, Angular, Ansible, Helm",
+  },
+  {
+    title: "Cloud Platforms",
+    value: "Microsoft Azure, AWS, Google Cloud Platform (GCP)",
+  },
+  {
+    title: "Virtualization & Infrastructure",
+    value: "OpenStack, VMware vSphere, ESXi, NSX, vCenter, Hybrid Cloud Architectures",
+  },
+  {
+    title: "DevOps & Automation",
+    value: "Docker, Kubernetes, Terraform, Git, Jenkins",
+  },
+  {
+    title: "Networking & Security",
+    value: "VPN, Firewalls, Load Balancers, Identity & Access Management (IAM), Zero Trust Security, Encryption",
+  },
+  {
+    title: "CI/CD & Monitoring",
+    value: "GitHub Actions, GitLab CI/CD, Prometheus, Grafana, ELK Stack, Splunk",
+  },
+  {
+    title: "Enterprise Technologies",
+    value: "SAS Viya, Linux Administration (RHEL, Ubuntu), Windows Server, PostgreSQL, MySQL",
+  },
+  {
+    title: "Others",
+    value: "Git, Jenkins, AWS, YAML, JSON",
+  },
+],
+
   experiences: [
     {
       organization: "SAS Institute",
