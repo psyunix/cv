@@ -1,7 +1,7 @@
 const profileData = {
   title: "Resume",
   name: "Milan Cvetic",
-  sub_title: "Senior System Engineer",
+  sub_title: "Senior System Arhitect/Engineer",
   logoURL: "assets/images/dp.jpg",
   about: {
     intro: `Insightful Information Technology Manager/Engineer with 20 years of IT leadership experience, including infrastructure, application support, and security services oversight. Dedicated to customer satisfaction with focused delivery of technical solutions. Proven leader in directing operations, maintenance, and support of complex systems. Develops creative business solutions, leveraging diverse methodologies and delivering engineering solutions for leading organizations. Highly adept in requests for proposal development, technology needs assessments, and staff training..`,
@@ -137,7 +137,7 @@ const profileData = {
       "Managed one or more technologies: Microsoft technologies (Active Directory, PowerShell), Relational SQL databases (MS SQL, Oracle, PostgreSQL, MySQL), Kaspersky and ESET AV, Nagios, Bash/Python scripting, VMware, Veeam, Linux/Unix, Cisco/Fortinet Networking and security, Nessus security.",
     ],
   },
-  
+
     {
       organization: "Flipkart Internet Pvt Ltd",
       title: `UI Engineer 1`,
