@@ -139,6 +139,27 @@ const profileData = {
   },
 
     {
+      organization: "Automobile Association of Serbia and AMS Insurance Corp",
+      title: "Senior System Engineer and Technical Adviser",
+      date: "Jan 2013 - Dec 2016",
+      details: [
+        "Planned, installed, configured, and tested network appliances for mass storage, backup, disaster recovery, and OS security and maintenance.",
+        "Resolved issues and escalated problems with knowledgeable support and quality service.",
+        "Proposed technical feasibility solutions for new system designs and suggested options for performance improvement of technical components.",
+        "Installation and maintenance of business applications for vehicle insurance across Serbia: border crossings, automobile base stations, and police stations based on the FreeBSD UNIX system and Microsoft infrastructure.",
+        "Redesigned and built a new IT infrastructure, including Virtualization, DNS, DHCP, LDAP, Server Deployment Automation, User Services, Web Services, Load Balancing, Network Switching, Network Storage, Enterprise Backups, and VOIP.",
+        "Architected, implemented, and managed a multi-site VMware Server Infrastructure with multi-tenancy.",
+        "Physical to virtual (P2V) server migrations (Linux/Unix, Solaris, Windows) identified IT requirements for an office relocation to triple personnel headcount.",
+        "Designed data center on-premises with power and cooling for server and communications equipment and workbenches for monitoring and diagnostics.",
+        "Designed, installed, and maintained the in-house data center Disaster Recovery solution based on SAN/NAS EMC RecoverPoint (Dell - VMware cluster system - EMC VNXe storage) servers and applications.",
+        "Provided technical expertise on designing, implementing, and troubleshooting enterprise production systems.",
+        "Familiarity with Microsoft security tools and procedures - Expertise with AD Management, administration, and optimization.",
+        "Job-related technologies: Cisco/Fortinet networking and security, ESET, Nagios, VMware/Veeam, Relational SQL databases (MS SQL, Oracle, PostgreSQL, MySQL), Unix/Linux, Microsoft technologies (Active Directory, FTP, Proxy, PowerShell), DevOps tools."
+      ],
+    },
+
+
+    {
       organization: "Flipkart Internet Pvt Ltd",
       title: `UI Engineer 1`,
       date: "Jun 2021 - Nov 2022",
@@ -224,7 +245,7 @@ const profileData = {
   education: [
   
   {
-    alma: "ICT - College for Expert Studies in Information and Communication Technologies",
+    alma: "ICT - College for Expert Studies in Information and Communication Technologies - ",
     link: "https://en.ict.edu.rs/",
     duration: "Jul 2009 - Aug 2011",
     std: "Professional Master • Network Technologies",
