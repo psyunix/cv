@@ -1,20 +1,19 @@
-],
 experiences: [
   {
     organization: "BeocityNet ISP",
     title: "IT System Administrator",
     date: "Aug 2008 - Apr 2009",
-      "ADSL, Dial-up, Linux Hosting – T 2/3 support for more than 15K+ customers for different services, 24/7.",
-    },
-    contact: {
-    contact: {
-      email: "psyunix@gmail.com",
-      phone: "+808-two84-zero781",
-      address: "Honolulu, Hawaii",
-  ],
-  links: [
-  },
-  links: [
+    details: [
+      "ADSL, Dial-up, Linux Hosting – T 2/3 support for more than 15K+ customers for different services, 24/7."
+    ]
+  }
+],
+contact: {
+  email: "psyunix@gmail.com",
+  phone: "+808-two84-zero781",
+  address: "Honolulu, Hawaii"
+},
+links: [
     {
       title: "LinkedIn",
       src: "https://www.linkedin.com/in/milancvetic",
@@ -75,20 +74,19 @@ experiences: [
   experiences: [
     {
       organization: "SAS Institute",
-      title: "Senior System Arhitect",
+      title: "Senior System Architect",
       date: "Dec 2022 - Present",
       details: [
-        `Led the architecture, deployment, and maintenance of SAS Viya environments across Azure, AWS, GCP, and OpenStack, ensuring high availability, security, and performance optimization.`,
-        `Oversee VMware virtualization strategies to maintain efficient resource allocation and system scalability for production and development environments.`,
-        `Drive DevOps and CI/CD automation using Docker, Kubernetes, Git, and Terraform, streamlining infrastructure provisioning, application deployment, and system monitoring.`,
-        `Troubleshoot and resolve complex system issues, minimizing downtime and ensuring seamless performance for risk research and quantitative solutions.`,
-        `Implement cloud security best practices, identity and access management (IAM), encryption, and compliance frameworks to align with enterprise security policies.`,
-        `Optimize network configurations and server environments for on-premises and cloud-based infrastructures, ensuring seamless hybrid cloud integration.`,
-        `Collaborate with development and data science teams to provide scalable, secure, and efficient computing environments for risk modeling and advanced analytics.`,
-        `Continuously evaluate and integrate emerging cloud and DevOps technologies to enhance system reliability, cost efficiency, and operational resilience.`,
+        "Led the architecture, deployment, and maintenance of SAS Viya environments across Azure, AWS, GCP, and OpenStack, ensuring high availability, security, and performance optimization.",
+        "Oversee VMware virtualization strategies to maintain efficient resource allocation and system scalability for production and development environments.",
+        "Drive DevOps and CI/CD automation using Docker, Kubernetes, Git, and Terraform, streamlining infrastructure provisioning, application deployment, and system monitoring.",
+        "Troubleshoot and resolve complex system issues, minimizing downtime and ensuring seamless performance for risk research and quantitative solutions.",
+        "Implement cloud security best practices, identity and access management (IAM), encryption, and compliance frameworks to align with enterprise security policies.",
+        "Optimize network configurations and server environments for on-premises and cloud-based infrastructures, ensuring seamless hybrid cloud integration.",
+        "Collaborate with development and data science teams to provide scalable, secure, and efficient computing environments for risk modeling and advanced analytics.",
+        "Continuously evaluate and integrate emerging cloud and DevOps technologies to enhance system reliability, cost efficiency, and operational resilience."
       ]
     },
-
     {
       organization: "Kamakura Corporation",
       title: "Director of Enterprise Information Technology",
@@ -215,8 +213,6 @@ experiences: [
     },
   ],
   education: [
-
-  education: [
   
   {
     alma: "ICT - College for Expert Studies in Information and Communication Technologies - ",
@@ -232,8 +228,6 @@ experiences: [
     std: "Bachelor's degree • Information Technologies",
     score: "8",
   ],
-  certifications: [
-],
 
   certifications: [
     {
@@ -242,12 +236,9 @@ experiences: [
       date: "May - Nov 2018",
     },
     {
-      desc: `<strong>VMware Certified Associate - Data Center Virtualization (VCA-DCV)</strong>, a MOOC by <em> NPTEL (IIT Madras)
-      and Hasura</em>. Ranked at <strong> top 10 percentile </strong> among more than 2500 candidates.
-       (<a target='_blank' rel='noreferrer' href='https://nptel.ac.in/noc/E_Certificate/linkedin/noc17-cs06/NPTEL17CS0626270067AN.jpg'>
-  ],
-  ],
-};
+      desc: `<strong>VMware Certified Associate - Data Center Virtualization (VCA-DCV)</strong>, a MOOC by <em>NPTEL (IIT Madras)
+      and Hasura</em>. Ranked at <strong>top 10 percentile</strong> among more than 2500 candidates.
+      (<a target='_blank' rel='noreferrer' href='https://nptel.ac.in/noc/E_Certificate/linkedin/noc17-cs06/NPTEL17CS0626270067AN.jpg'>Certificate Link</a>)`,
       date: "Jan - Mar 2017",
     },
   ],
