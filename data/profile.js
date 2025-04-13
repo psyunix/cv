@@ -200,9 +200,7 @@ experiences: [
         "Cooperation and operations tasks with domestic and foreign Internet service providers.",
       ],
     },
-
   ],
-
   projects: [
     {
       title: "Restaurant Review",
@@ -231,6 +229,7 @@ experiences: [
   
   {
     alma: "ICT - College for Expert Studies in Information and Communication Technologies - ",
+    link: "https://en.ict.edu.rs/",
     duration: "Jul 2009 - Aug 2011",
     std: "Professional Master • Network Technologies",
     score: "9",
