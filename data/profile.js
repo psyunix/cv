@@ -1,15 +1,18 @@
+],
 experiences: [
   {
     organization: "BeocityNet ISP",
     title: "IT System Administrator",
     date: "Aug 2008 - Apr 2009",
-    details: [
-      "ADSL, Dial-up, Linux Hosting – T 2/3 support for more than 15K+ customers for different
+      "ADSL, Dial-up, Linux Hosting – T 2/3 support for more than 15K+ customers for different services, 24/7.",
+    },
+    contact: {
     contact: {
       email: "psyunix@gmail.com",
       phone: "+808-two84-zero781",
       address: "Honolulu, Hawaii",
-    },
+  ],
+  links: [
   },
   links: [
     {
@@ -26,7 +29,8 @@ experiences: [
       title: "Codepen",
       src: "https://codepen.io/imvpn22",
       iconClass: "fa-brands fa-codepen",
-    },
+  ],
+  skills: [
   ],
 
   skills: [
@@ -163,7 +167,7 @@ experiences: [
     organization: "BeocityNet ISP",
     title: "IT System Administrator",
     date: "Aug 2008 - Apr 2009",
-    details: [
+    details:
       "ADSL, Dial-up, Linux Hosting – T 2/3 support for more than 15K+ customers for different services, 24/7.",
       "Established network specifications and analyzed workflow, access, information, and security requirements.",
       "Designed proactive preventive maintenance schedules to prevent unnecessary downtime and hardware faults.",
@@ -171,15 +175,11 @@ experiences: [
       "Administered operating systems, hardware, and peripheral components, and maintained databases.",
       "Performed software installation, upgrades/patches, troubleshooting, and maintenance on UNIX servers.",
       "Analyzed and resolved diagnostic problems on Sun, HP-UX, and FreeBSD systems.",
-    ],
   },
   
     {
-<<<<<<< HEAD
-      organization: "Veratnet ISP",
       title: "IT System Administrator",
       date: "Jun 2007 - Jan 2008",
-=======
       organization: "Flipkart Internet Pvt Ltd",
       title: `UI Engineer 1`,
       date: "Jun 2021 - Nov 2022",
@@ -190,9 +190,7 @@ experiences: [
     },
     {
       organization: "Mobile Premier League",
-      title: `Software Development Engineer 1`,
       date: "Apr 2020 - Jun 2021",
->>>>>>> parent of a523a43 (IT Academy)
       details: [
         "Provided 24/7 technical and business support and System administration for 100K+ customers (Dial-up, ADSL, Wireless, Windows/Linux hosting).",
         "Managed Linux RHEL, UNIX, Solaris (SPARC), and Windows servers.",
@@ -202,6 +200,7 @@ experiences: [
       ],
     },
   ],
+
   projects: [
     {
       title: "Restaurant Review",
@@ -225,6 +224,7 @@ experiences: [
       <strong>CSS</strong>, <strong>JavaScript</strong> and <strong>Socket.io</strong>.`,
     },
   ],
+  education: [
 
   education: [
   
@@ -241,7 +241,8 @@ experiences: [
     duration: "Oct 2006 - Jun 2009",
     std: "Bachelor's degree • Information Technologies",
     score: "8",
-  },
+  ],
+  certifications: [
 ],
 
   certifications: [
@@ -254,7 +255,9 @@ experiences: [
       desc: `<strong>VMware Certified Associate - Data Center Virtualization (VCA-DCV)</strong>, a MOOC by <em> NPTEL (IIT Madras)
       and Hasura</em>. Ranked at <strong> top 10 percentile </strong> among more than 2500 candidates.
        (<a target='_blank' rel='noreferrer' href='https://nptel.ac.in/noc/E_Certificate/linkedin/noc17-cs06/NPTEL17CS0626270067AN.jpg'>
-       https://goo.gl/X3HEdR</a>)`,
+  ],
+  ],
+};
       date: "Jan - Mar 2017",
     },
   ],
