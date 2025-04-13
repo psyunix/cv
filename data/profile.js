@@ -188,17 +188,7 @@ experiences: [
         `Other responsibilities include implementing new features, as well as patching and resolving bugs in existing features, while also addressing on-call issues promptly.`,
       ],
     },
-    {
-      organization: "Mobile Premier League",
-      date: "Apr 2020 - Jun 2021",
-      details: [
-        "Provided 24/7 technical and business support and System administration for 100K+ customers (Dial-up, ADSL, Wireless, Windows/Linux hosting).",
-        "Managed Linux RHEL, UNIX, Solaris (SPARC), and Windows servers.",
-        "Designed proactive preventive maintenance schedules to prevent unnecessary downtime and hardware faults.",
-        "Managing Network Architecture and Cybersecurity in the company.",
-        "Cooperation and operations tasks with domestic and foreign Internet service providers.",
-      ],
-    },
+ 
   ],
 
   projects: [
