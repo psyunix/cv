@@ -160,12 +160,11 @@ links: [
       ],
     },
 
-
   {
     organization: "BeocityNet ISP",
     title: "IT System Administrator",
     date: "Aug 2008 - Apr 2009",
-    details:
+    details:[
       "ADSL, Dial-up, Linux Hosting – T 2/3 support for more than 15K+ customers for different services, 24/7.",
       "Established network specifications and analyzed workflow, access, information, and security requirements.",
       "Designed proactive preventive maintenance schedules to prevent unnecessary downtime and hardware faults.",
@@ -173,7 +172,8 @@ links: [
       "Administered operating systems, hardware, and peripheral components, and maintained databases.",
       "Performed software installation, upgrades/patches, troubleshooting, and maintenance on UNIX servers.",
       "Analyzed and resolved diagnostic problems on Sun, HP-UX, and FreeBSD systems.",
-  },
+  ],
+},
   
     {
       title: "IT System Administrator",
