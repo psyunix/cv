@@ -158,20 +158,6 @@ experiences: [
       ],
     },
 
-  {
-    organization: "IT Academy",
-    title: "Lecturer, Computer Science",
-    date: "Nov 2008 - May 2010",
-    details: [
-      "Lecturer and course instructor of the Linux Module - intermediate level, for 60 students divided into three groups.",
-      "Assessed, documented, and reported student progress in Linux computer class.",
-      "Evaluated and revised lesson plans and course content to achieve student-centered learning.",
-      "Delivered engaging curriculum through diverse methods of classroom instruction, computer lab activities, and online learning systems.",
-      "Used various learning modalities and support materials to facilitate learning and accentuate presentations.",
-      "Worked with Red Hat/Debian-based Linux distribution, particularly installation, configuration, user rights, services, file system, and recovery.",
-      "In charge of course design, communications with students, and grading.",
-    ],
-  },
 
   {
     organization: "BeocityNet ISP",
@@ -189,9 +175,24 @@ experiences: [
   },
   
     {
+<<<<<<< HEAD
       organization: "Veratnet ISP",
       title: "IT System Administrator",
       date: "Jun 2007 - Jan 2008",
+=======
+      organization: "Flipkart Internet Pvt Ltd",
+      title: `UI Engineer 1`,
+      date: "Jun 2021 - Nov 2022",
+      details: [
+        `As part of the <strong>Pricing and Promotion Team</strong>, worked on the migration of legacy projects from <strong>AngularJS to React-Redux</strong>, implementing a new design. I developed a React-based UI component library and utilities, now utilized across multiple projects.`,
+        `Other responsibilities include implementing new features, as well as patching and resolving bugs in existing features, while also addressing on-call issues promptly.`,
+      ],
+    },
+    {
+      organization: "Mobile Premier League",
+      title: `Software Development Engineer 1`,
+      date: "Apr 2020 - Jun 2021",
+>>>>>>> parent of a523a43 (IT Academy)
       details: [
         "Provided 24/7 technical and business support and System administration for 100K+ customers (Dial-up, ADSL, Wireless, Windows/Linux hosting).",
         "Managed Linux RHEL, UNIX, Solaris (SPARC), and Windows servers.",
