@@ -189,20 +189,20 @@ experiences: [
   },
   
     {
-      organization: "Hasura",
-      title: "Product Development Intern (Remote)",
-      desc: `<strong>Product development intern</strong> at <a target='_blank' rel='noreferrer' href='https://hasura.io/'>
-      <strong> Hasura </strong> </a> (<a target='_blank' rel='noreferrer' href='https://goo.gl/8V3jBy'> https://goo.gl/8V3jBy</a>)`,
-      date: "Jun 2017 - Aug 2017",
+      organization: "Veratnet ISP",
+      title: "IT System Administrator",
+      date: "Jun 2007 - Jan 2008",
       details: [
-        `Created a web app using <strong>Node.js-Express</strong> with <strong>EJS</strong> server-side-templating on
-        <strong>Hasura's BaaS platform</strong> with features of group chat and a
-        sketch board for real-time collaboration with peers. The work was more focused
-        towards <strong>using auth and data APIs</strong> offered by the platform, deploying the app,
-        testing and reporting the bugs in it.`,
+        "Provided 24/7 technical and business support and System administration for 100K+ customers (Dial-up, ADSL, Wireless, Windows/Linux hosting).",
+        "Managed Linux RHEL, UNIX, Solaris (SPARC), and Windows servers.",
+        "Designed proactive preventive maintenance schedules to prevent unnecessary downtime and hardware faults.",
+        "Managing Network Architecture and Cybersecurity in the company.",
+        "Cooperation and operations tasks with domestic and foreign Internet service providers.",
       ],
     },
+
   ],
+
   projects: [
     {
       title: "Restaurant Review",
@@ -231,7 +231,6 @@ experiences: [
   
   {
     alma: "ICT - College for Expert Studies in Information and Communication Technologies - ",
-    link: "https://en.ict.edu.rs/",
     duration: "Jul 2009 - Aug 2011",
     std: "Professional Master • Network Technologies",
     score: "9",
