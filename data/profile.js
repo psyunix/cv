@@ -1,10 +1,10 @@
-const profileData = {
-  title: "Resume",
-  name: "Milan Cvetic",
-  sub_title: "Senior System Arhitect/Engineer",
-  logoURL: "assets/images/dp.jpg",
-  about: {
-    intro: `Insightful Information Technology Manager/Engineer with 20 years of IT leadership experience, including infrastructure, application support, and security services oversight. Dedicated to customer satisfaction with focused delivery of technical solutions. Proven leader in directing operations, maintenance, and support of complex systems. Develops creative business solutions, leveraging diverse methodologies and delivering engineering solutions for leading organizations. Highly adept in requests for proposal development, technology needs assessments, and staff training..`,
+experiences: [
+  {
+    organization: "BeocityNet ISP",
+    title: "IT System Administrator",
+    date: "Aug 2008 - Apr 2009",
+    details: [
+      "ADSL, Dial-up, Linux Hosting – T 2/3 support for more than 15K+ customers for different
     contact: {
       email: "psyunix@gmail.com",
       phone: "+808-two84-zero781",
@@ -173,41 +173,21 @@ const profileData = {
     ],
   },
 
-    {
-      organization: "Mobile Premier League",
-      title: `Software Development Engineer 1`,
-      date: "Apr 2020 - Jun 2021",
-      details: [
-        `Created feature-specific modules within the internal CRM to enhance team operations. Utilized <strong>ReactJS</strong> with <strong>SCSS</strong> and <strong>Redux</strong> for frontend development, alongside <strong>NodeJS-Express</strong> with protobuf for backend functionality.`,
-        `Developed a tailored <strong>Content Management System (CMS) for MPL's website</strong>, enabling seamless content and image updates across various pages in real-time.`,
-      ],
-    },
-    {
-      organization: "Wipro",
-      title: `Project Engineer`,
-      desc: `Project Engineer`,
-      date: "Aug 2018 - Apr 2020",
-      details: [
-        `Contributed to the development of a <strong>collaborative online
-        blueprint editor</strong> by translating the design mockups into reusable UI components
-        with industry-standard UX patterns using <strong>Angular</strong> with <strong>SCSS</strong>,
-        <strong>NgRx</strong> and <strong>Angular-Material</strong> and adding actions to those by
-        creating services to integrate backend REST-APIs.`,
-        `Resolved UI/UX issues by refactoring React components and re-structuring CSS/SCSS of an internal project with the codebase of ReactJS-Redux.`,
-      ],
-    },
-    {
-      organization: "Venuemonk",
-      title: "Full-Stack Developer Intern",
-      desc: `<strong>Full-Stack Developer intern</strong> at  <a target='_blank' rel='noreferrer' href='https://www.venuemonk.com/'>
-      <strong> Venuemonk </strong> </a> (<a target='_blank' rel='noreferrer' href='https://drive.google.com/open?id=1ch_9x9jCp_TJwKY43FG-pCr_zV9H2iun'> https://goo.gl/Uz1gaf</a>)`,
-      date: "Jan 2018 - Apr 2018",
-      details: [
-        `Designed and developed a <strong>Venue Onboarding platform</strong> to streamline and automate
-        the onboarding process of partner venues using <strong>React.js-Redux</strong> frontend and
-        <strong>Node.js-Express, MongoDB</strong> backend.`,
-      ],
-    },
+  {
+    organization: "BeocityNet ISP",
+    title: "IT System Administrator",
+    date: "Aug 2008 - Apr 2009",
+    details: [
+      "ADSL, Dial-up, Linux Hosting – T 2/3 support for more than 15K+ customers for different services, 24/7.",
+      "Established network specifications and analyzed workflow, access, information, and security requirements.",
+      "Designed proactive preventive maintenance schedules to prevent unnecessary downtime and hardware faults.",
+      "Maintained virtual Linux servers in a VMware environment with Unix/FreeBSD servers for various purposes.",
+      "Administered operating systems, hardware, and peripheral components, and maintained databases.",
+      "Performed software installation, upgrades/patches, troubleshooting, and maintenance on UNIX servers.",
+      "Analyzed and resolved diagnostic problems on Sun, HP-UX, and FreeBSD systems.",
+    ],
+  },
+  
     {
       organization: "Hasura",
       title: "Product Development Intern (Remote)",
